@@ -1,0 +1,24 @@
+@font-face{
+  font-family: Hanalei;
+  src: url(./Hanalei-Regular.ttf);
+  font-weight: normal;
+}
+
+@font-face{
+  font-family: Hachi;
+  src: url(./Hachi_Maru_Pop/HachiMaruPop-Regular.ttf);
+  font-weight: normal;
+}
+
+@font-face{
+  font-family: Indie;
+  src: url(./Indie_Flower/IndieFlower-Regular.ttf);
+  font-weight: normal;
+}
+
+@font-face{
+  font-family: Pacifico;
+  src: url(./Pacifico/Pacifico-Regular.ttf);
+  font-weight: normal;
+}
+
